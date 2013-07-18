@@ -33,3 +33,11 @@ Prá me defender...(2x)
 
 Ele vai dá uma casteada
 No inteiro dela...(4x)
+
+Diz ai Marcos!
+O que cê vai fazer?
+Eu jogar NULL
+Pra me defender...(2x)
+
+Ele vai dar uma NULLADA
+No ponteiro dela...(4x)
