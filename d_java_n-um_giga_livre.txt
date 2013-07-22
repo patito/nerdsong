@@ -1,0 +1,17 @@
+/**
+ * Insanidade iniciada por: Marcos Paulo de Souza
+ *
+ * E por demais "pogamadores" masculinos que acham java "meigo"
+ */
+
+D_java_n - Um giga livre
+
+Um giga livre
+São os programadores Java que indicam
+O basico e o necessário
+Para dar um print
+
+Um giga livre
+E a JVM insiste
+Em carregar tudo na memoria
+E te obrigar a chamar OOM killer
