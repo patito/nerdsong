@@ -13,7 +13,7 @@ Piririm, Piririm, Piririm, alguem programou pra mim...
 Piririm, Piririm, Piririm alguem programou pra mim...
 Quem é? Sou eu programador da globo, e o framework ta de matar,
 Vai ser na praia da barra que um programa eu vou lançar.
-Vai me colcocar na stack?
+Vai me colocar na stack?
 Não, não, vou alocar.
 
 Vai me colocar na stack?
@@ -28,11 +28,11 @@ Piririm, Piririm, Piririm alguem programou pra mim...
 
 Quem é? Sou eu programador da globo, e o framework ta de matar,
 Vai ser na praia da barra que um programa eu vou lançar.
-Vai me colcoar na stack?
+Vai me colocar na stack?
 Não, não, vou alocar.
-Vai me colcoar na stack?
+Vai me colocar na stack?
 Não, não, vou alocar.
-Vai me colcoar na stack?
+Vai me colocar na stack?
 Não, não, vou alocar.
 To ficando alocadinha.
 To ficando alocadinha.
