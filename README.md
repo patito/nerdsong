@@ -7,7 +7,7 @@ Integrantes
 ===========
 
 - Vocalista: Ponteiro Perdido;
-- Baixista: Unsigend Int;
+- Baixista: Unsigned Int;
 - Roadie: BufferOverflow;
 - Guitarrista: ifndef;
 - Baterista: debugger;
